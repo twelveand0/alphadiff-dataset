@@ -1,4 +1,4 @@
-# alphadiff-dataset
+# AlphaDiff Dataset
 This is a deep learning dataset for cross-version binary code similarity detection. 
 
 ## Usage
